@@ -2,6 +2,7 @@ import "@styles/globals.css";
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
+
 export const metadata = {
   title: "promps of the revolution AI",
   description: "Discover & share AI prompts",

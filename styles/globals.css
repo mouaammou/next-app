@@ -135,7 +135,7 @@
 
   /* Nav Component */
   .logo_text {
-    @apply max-sm:hidden font-satoshi font-semibold text-lg text-black tracking-wide;
+    @apply max-sm:hidden font-satoshi font-semibold text-lg tracking-wide;
   }
 
   .dropdown {
@@ -164,6 +164,6 @@
   }
 
   .flex-between {
-    @apply flex justify-between items-center;
+    @apply flex justify-between items-center w-full;
   }
 }

@@ -6,18 +6,6 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    //screens: set sm, md, lg, xl, 2xl
-    screens: {
-      //set sm to max-width: 640px
-      sm: "640px",
-      //set md to max-width: 768px
-      md: "768px",
-      //set lg to max-width: 1024px
-      lg: "1024px",
-      //set xl to max-width: 1280px
-      xl: "1280px",
-      //set sm to max-width: 640px
-    },
     extend: {
       fontFamily: {
         satoshi: ["Satoshi", "sans-serif"],
